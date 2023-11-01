@@ -1,7 +1,8 @@
 # cat-vs-dog-vit-project
 Using the pretrained Vision Transformer (ViT) Model, get the following output result:
 
-![image](https://github.com/Crepopcorn/cat-vs-dog-vit-project/assets/112138670/fa5f45f9-ec00-461d-b758-3dd7998f9f7e)
+![image](https://github.com/Crepopcorn/cat-vs-dog-vit-project/assets/112138670/c2b18d7c-58e6-44b4-b724-c4a2b5550425)
+
 
 Thus, we can conclude that:
 
